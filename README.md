@@ -1,4 +1,4 @@
-Server: Mình dùng Xampp
+- Server: Mình dùng Xampp
 - Database: db_btl
 - Để vào web: http://localhost/php2/app/
 - Để vào admin: http://localhost/php2/admin
